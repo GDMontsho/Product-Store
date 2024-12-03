@@ -1,4 +1,4 @@
-# MERN Crash Course - Product Shop
+# MERN - Product Shop
 
 This is a simple online product shop application built with the **MERN stack** (MongoDB, Express, React, Node.js). The project is designed to demonstrate how to build a full-stack web application using these technologies. The backend provides an API for product management, and the frontend interacts with the API to display the product data.
 
